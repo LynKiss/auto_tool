@@ -1,0 +1,32 @@
+[
+  {
+    "type": "click",
+    "x": 1531,
+    "y": 202,
+    "button": "left",
+    "delay": 0.399,
+    "rel_x": 68,
+    "rel_y": 100,
+    "window_title": "MicroEmulator"
+  },
+  {
+    "type": "click",
+    "x": 1754,
+    "y": 632,
+    "button": "left",
+    "delay": 0.711,
+    "rel_x": 291,
+    "rel_y": 530,
+    "window_title": "MicroEmulator"
+  },
+  {
+    "type": "click",
+    "x": 1411,
+    "y": 632,
+    "button": "left",
+    "delay": 1.116,
+    "rel_x": -52,
+    "rel_y": 530,
+    "window_title": "MicroEmulator"
+  }
+]

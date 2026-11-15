@@ -1,0 +1,229 @@
+{
+  "e": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_image": "c:\\Users\\Admin\\Downloads\\auto\\macros\\images\\e_cond.png",
+    "confidence": "0.8",
+    "cond_images": [
+      "c:\\Users\\Admin\\Downloads\\auto\\macros\\images\\e_cond.png"
+    ]
+  },
+  "1111": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Chờ đến khi Có ảnh ➔ Chạy",
+    "cond_images": [
+      "c:\\Users\\Admin\\Downloads\\auto\\macros\\images\\1111_cond.png",
+      "c:\\Users\\Admin\\Downloads\\auto\\macros\\images\\1111_59648_0.png",
+      "c:\\Users\\Admin\\Downloads\\auto\\macros\\images\\1111_68447.png"
+    ],
+    "confidence": "0.9"
+  },
+  "au1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "auto rut xu doan123123": {
+    "loops": "1",
+    "speed": "2.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "logic_mode": "AND",
+    "timeout": "10",
+    "confidence": "0.8",
+    "fallback_action": "SKIP",
+    "fallback_goto_step": "0",
+    "fallback_retry_wait": "5",
+    "fallback_retry_count": "3"
+  },
+  "chuyen xu doan123123": {
+    "loops": "1",
+    "speed": "1.5x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "logic_mode": "AND",
+    "timeout": "10",
+    "confidence": "0.8",
+    "fallback_action": "SKIP",
+    "fallback_goto_step": "0",
+    "fallback_retry_wait": "5",
+    "fallback_retry_count": "3"
+  },
+  "__macro_order__": [
+    "auto rut xu doan123123",
+    "chuyen xu doan123123",
+    "thoat loi thong tin"
+  ],
+  "auto qs vip 1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "ra ngoai qsvip1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "auto rut xu qs1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "vo qs vip1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "aura ngoai 1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\aurangoai1_084324_0.png"
+    ],
+    "confidence": "0.8"
+  },
+  "tat auto click": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "quay thu cong1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\quaythucong1_084648_0.png",
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\quaythucong1_090303_0.png"
+    ],
+    "confidence": "0.8"
+  },
+  "quay xong het xu": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\quayxonghetxu_094120_0.png",
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\quayxonghetxu_094122_1.png"
+    ],
+    "confidence": "0.7"
+  },
+  "vo qsvip1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "voq s1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Tắt quét ảnh (Chạy luôn)",
+    "cond_images": [],
+    "confidence": "0.8"
+  },
+  "loi anh": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loianh_093052_0.png",
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loianh_093054_1.png"
+    ],
+    "confidence": "0.7"
+  },
+  "loi 1": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loi1_093226_0.png",
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loi1_093228_1.png"
+    ],
+    "confidence": "0.8"
+  },
+  "loi anh2": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loianh2_113748_0.png",
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\loianh2_113750_1.png"
+    ],
+    "confidence": "0.7"
+  },
+  "auto bo do": {
+    "loops": "1",
+    "speed": "1.0x",
+    "delay": "0",
+    "cond_mode": "Có ảnh ➔ Chạy (K.Có ➔ Bỏ qua)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\autobodo_082320_0.png"
+    ],
+    "confidence": "0.8"
+  },
+  "auto bodo": {
+    "loops": "1",
+    "speed": "5.0x",
+    "delay": "0",
+    "cond_mode": "K.Có ảnh ➔ Chạy (Phức hợp)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\autobodo_082428_0.png"
+    ],
+    "logic_mode": "AND",
+    "timeout": "10",
+    "confidence": "0.8",
+    "fallback_action": "SKIP",
+    "fallback_goto_step": "0",
+    "fallback_retry_wait": "5",
+    "fallback_retry_count": "3"
+  },
+  "thoat loi thong tin": {
+    "loops": "1",
+    "speed": "2.0x",
+    "delay": "0",
+    "cond_mode": "Có đủ ảnh ➔ Chạy (Phức hợp)",
+    "cond_images": [
+      "C:\\Users\\Admin\\Downloads\\auto\\macros\\images\\thoatloithongtin_121844_0.png"
+    ],
+    "logic_mode": "AND",
+    "timeout": "1",
+    "confidence": "0.7",
+    "fallback_action": "GOTO",
+    "fallback_goto_step": "1",
+    "fallback_retry_wait": "5",
+    "fallback_retry_count": "3"
+  }
+}

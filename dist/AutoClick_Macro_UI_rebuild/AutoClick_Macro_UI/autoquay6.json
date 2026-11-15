@@ -1,0 +1,249 @@
+{
+  "ra ngoai": [
+    {
+      "type": "click",
+      "x": 1105,
+      "y": 136,
+      "button": "left",
+      "delay": 0.81
+    },
+    {
+      "type": "click",
+      "x": 1220,
+      "y": 496,
+      "button": "left",
+      "delay": 0.8
+    },
+    {
+      "type": "click",
+      "x": 1326,
+      "y": 630,
+      "button": "left",
+      "delay": 1.031
+    },
+    {
+      "type": "click",
+      "x": 467,
+      "y": 345,
+      "button": "left",
+      "delay": 3.471
+    }
+  ],
+  "auto xu": [
+    {
+      "type": "click",
+      "x": 1097,
+      "y": 131,
+      "button": "left",
+      "delay": 0.934
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.772
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 1.285
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.419
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.249
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.186
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.185
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.485
+    },
+    {
+      "type": "click",
+      "x": 1168,
+      "y": 504,
+      "button": "left",
+      "delay": 1.338
+    },
+    {
+      "type": "click",
+      "x": 1126,
+      "y": 709,
+      "button": "left",
+      "delay": 0.608
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 0.736
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 0.631
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 0.687
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 1.023
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 0.952
+    },
+    {
+      "type": "click",
+      "x": 1221,
+      "y": 854,
+      "button": "left",
+      "delay": 1.256
+    },
+    {
+      "type": "click",
+      "x": 1226,
+      "y": 566,
+      "button": "left",
+      "delay": 1.471
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 1.666
+    },
+    {
+      "type": "click",
+      "x": 843,
+      "y": 319,
+      "button": "left",
+      "delay": 1.645
+    }
+  ],
+  "auto qs 666": [
+    {
+      "type": "click",
+      "x": 1065,
+      "y": 135,
+      "button": "left",
+      "delay": 1.049
+    },
+    {
+      "type": "click",
+      "x": 1126,
+      "y": 581,
+      "button": "left",
+      "delay": 1.537
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.743
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.456
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.702
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.206
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.174
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.189
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.189
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.324
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.346
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.877
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "delay": 0.906
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.688
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.443
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.45
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.423
+    },
+    {
+      "type": "click",
+      "x": 948,
+      "y": 374,
+      "button": "left",
+      "delay": 1.405
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "type": "click",
+    "x": 580,
+    "y": 100,
+    "button": "left",
+    "delay": 0.979
+  },
+  {
+    "type": "key",
+    "key": "up",
+    "delay": 0.912
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.506
+  },
+  {
+    "type": "key",
+    "key": "up",
+    "delay": 0.551
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.678
+  },
+  {
+    "type": "key",
+    "key": "d",
+    "delay": 1.097
+  },
+  {
+    "type": "key",
+    "key": "o",
+    "delay": 0.142
+  },
+  {
+    "type": "key",
+    "key": "a",
+    "delay": 0.111
+  },
+  {
+    "type": "key",
+    "key": "n",
+    "delay": 0.192
+  },
+  {
+    "type": "key",
+    "key": "1",
+    "delay": 0.539
+  },
+  {
+    "type": "key",
+    "key": "2",
+    "delay": 0.279
+  },
+  {
+    "type": "key",
+    "key": "3",
+    "delay": 0.232
+  },
+  {
+    "type": "key",
+    "key": "1",
+    "delay": 0.323
+  },
+  {
+    "type": "key",
+    "key": "2",
+    "delay": 0.248
+  },
+  {
+    "type": "key",
+    "key": "3",
+    "delay": 0.228
+  },
+  {
+    "type": "key",
+    "key": ",",
+    "delay": 0.688
+  },
+  {
+    "type": "key",
+    "key": "1",
+    "delay": 0.544
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.395
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.467
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.421
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.406
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.436
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.515
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.506
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.487
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.482
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.879
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 1.613
+  },
+  {
+    "type": "click",
+    "x": 531,
+    "y": 175,
+    "button": "left",
+    "delay": 1.048
+  }
+]

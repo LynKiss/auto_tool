@@ -1,0 +1,47 @@
+{
+  "auto qs fc1": [
+    {
+      "type": "click",
+      "x": 1075,
+      "y": 138,
+      "button": "left",
+      "delay": 0.68
+    },
+    {
+      "type": "click",
+      "x": 1211,
+      "y": 503,
+      "button": "left",
+      "delay": 1.011
+    },
+    {
+      "type": "click",
+      "x": 1140,
+      "y": 358,
+      "button": "left",
+      "delay": 0.708
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.961
+    },
+    {
+      "type": "key",
+      "key": "up",
+      "delay": 0.686
+    },
+    {
+      "type": "key",
+      "key": "enter",
+      "delay": 0.94
+    },
+    {
+      "type": "click",
+      "x": 886,
+      "y": 356,
+      "button": "left",
+      "delay": 1.644
+    }
+  ]
+}

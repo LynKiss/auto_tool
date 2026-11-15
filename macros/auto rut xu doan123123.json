@@ -1,0 +1,101 @@
+[
+  {
+    "type": "click",
+    "x": 584,
+    "y": 110,
+    "button": "left",
+    "delay": 0.921
+  },
+  {
+    "type": "key",
+    "key": "up",
+    "delay": 1.735
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.51
+  },
+  {
+    "type": "key",
+    "key": "down",
+    "delay": 0.6
+  },
+  {
+    "type": "key",
+    "key": "down",
+    "delay": 0.352
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.535
+  },
+  {
+    "type": "key",
+    "key": "1",
+    "delay": 1.252
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.475
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.467
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.347
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.384
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.402
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.418
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.343
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.435
+  },
+  {
+    "type": "key",
+    "key": "9",
+    "delay": 0.474
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 0.58
+  },
+  {
+    "type": "key",
+    "key": "enter",
+    "delay": 1.614
+  },
+  {
+    "type": "click",
+    "x": 518,
+    "y": 217,
+    "button": "left",
+    "delay": 0.806
+  }
+]
